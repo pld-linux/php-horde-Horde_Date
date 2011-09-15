@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Date package
 Name:		php-horde-Horde_Date
-Version:	1.0.4
+Version:	1.0.5
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	36516bd668f3d11d11acf3b1f4842a8d
+# Source0-md5:	c11e4b97410be82ce8d7c3be536e2af4
 URL:		https://github.com/horde/horde/tree/master/framework/Date/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
