@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Date
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Date package
 Name:		php-horde-Horde_Date
 Version:	1.0.11
